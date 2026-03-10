@@ -16,7 +16,7 @@ Senior Product Manager by day. Performance car builder by night.
 
 ## Background
 
-- 🎖️ US Army veteran, 100% P&T disabled
+- 🎖️ US Army veteran
 - 🛠️ ASE-certified, lifelong car guy
 - 📍 San Antonio / Boerne, Texas
 
