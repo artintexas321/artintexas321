@@ -5,7 +5,7 @@ Senior Product Manager by day. Performance car builder by night.
 ## What I do
 
 - **PM @ Rise8** — building software for the federal government that actually works
-- **Founder @ [Tovar Euro Performance](https://tovar.com)** — boutique European car repair in Boerne, TX
+- **Founder @ [Tovar Euro Performance](https://tovareuro.com)** — boutique European car repair in Boerne, TX
 - **Building with AI** — agentic workflows, automation, and whatever comes next
 
 ## Current focus
@@ -29,8 +29,8 @@ Senior Product Manager by day. Performance car builder by night.
 
 ## Connect
 
-- 🔧 Shop: Tovar Euro Performance — Boerne, TX
-- 💼 [LinkedIn](https://linkedin.com/in/arttovar)
+- 🔧 Shop: [Tovar Euro Performance](https://tovareuro.com) — Boerne, TX
+- 💼 [LinkedIn](https://www.linkedin.com/in/arthurtovar/)
 
 ---
 
